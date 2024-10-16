@@ -80,7 +80,7 @@ function App() {
         })
 
         setEvolution(evoNum);
-        setGeneration(romanNumeral);
+        setGeneration(romanNumeral)
       })
   )
 
